@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Elixir code error. The `bug.exs` file shows the problematic code.  The `bugSolution.exs` file presents a solution.
